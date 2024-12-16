@@ -1,0 +1,6 @@
+version: 1
+type: pipeline-template
+
+name: Python Hello World Template
+description: Simple Python Hello World
+parameters: []
